@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7e3dfbd-dfc6-4dd5-b2c6-f110c120ecb3" name="Default Changelist" comment="" />
+    <list default="true" id="b7e3dfbd-dfc6-4dd5-b2c6-f110c120ecb3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/coomware/Craftable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/Craftable.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -54,9 +59,13 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="446" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1594491647536" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1594493483113">
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1594498873985">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1594493483113" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1594498873985" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1594500352730">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1594500352730" />
   </component>
 </project>
