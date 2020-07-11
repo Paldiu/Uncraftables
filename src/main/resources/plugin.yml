@@ -1,0 +1,6 @@
+name: Uncraftables
+main: dev.coomware.Uncraftables
+version: 1.0.0
+author: CoomWare
+description: Adds in crafting recipes for all uncraftable items.
+api-version: 1.16
