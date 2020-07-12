@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7e3dfbd-dfc6-4dd5-b2c6-f110c120ecb3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dev/coomware/Craftable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/Craftable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,13 +60,13 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="446" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1594491647536" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1594498873985">
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1594585936140">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1594498873985" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1594500352730">
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1594585936140" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1594590229840">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1594500352730" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1594590229840" />
   </component>
 </project>
