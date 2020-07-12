@@ -913,7 +913,7 @@ public class Craftable {
     }
 
     private void sHorseEgg() {
-        ShapelessRecipe recipe = util.shapeless(Material.ZOMBIE_HORSE_SPAWN_EGG, "z_horse_egg_recipe");
+        ShapelessRecipe recipe = util.shapeless(Material.ZOMBIE_HORSE_SPAWN_EGG, "s_horse_egg_recipe");
         recipe.addIngredient(2, Material.SKELETON_SPAWN_EGG);
         recipe.addIngredient(1, Material.HORSE_SPAWN_EGG);
         plugin.server.addRecipe(recipe);

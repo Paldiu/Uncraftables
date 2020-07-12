@@ -4,6 +4,7 @@
     <list default="true" id="b7e3dfbd-dfc6-4dd5-b2c6-f110c120ecb3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dev/coomware/Craftable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/Craftable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Uncraftables-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Uncraftables-1.0.0.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +61,26 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="446" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1594491647536" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1594585936140">
+    <state width="1236" height="176" key="GridCell.Tab.0.bottom" timestamp="1594596932324">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1594585936140" />
+    <state width="1236" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1594596932324" />
+    <state width="1236" height="176" key="GridCell.Tab.0.center" timestamp="1594596932324">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1594596932324" />
+    <state width="1236" height="176" key="GridCell.Tab.0.left" timestamp="1594596932324">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1594596932324" />
+    <state width="1236" height="176" key="GridCell.Tab.0.right" timestamp="1594596932324">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1594596932324" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1594596799040">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1594596799040" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1594590229840">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
