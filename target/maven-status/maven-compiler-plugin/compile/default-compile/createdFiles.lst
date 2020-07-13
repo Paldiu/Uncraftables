@@ -1,3 +1,4 @@
 dev\coomware\Uncraftables.class
 dev\coomware\Craftable.class
+dev\coomware\CraftingListener.class
 dev\coomware\CraftingUtils.class

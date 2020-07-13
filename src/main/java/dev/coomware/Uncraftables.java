@@ -1,5 +1,6 @@
 package dev.coomware;
 
+import org.bukkit.Bukkit;
 import org.bukkit.Server;
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -18,10 +19,12 @@ public class Uncraftables extends JavaPlugin {
     @Override
     public void onEnable() {
         new Craftable(this).craftables();
+        new CraftingListener(this);
+        Bukkit.getLogger().info("[Uncraftables] successfully loaded all recipes.");
     }
 
     @Override
     public void onDisable() {
-
+        //
     }
 }
