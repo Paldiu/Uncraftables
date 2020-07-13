@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7e3dfbd-dfc6-4dd5-b2c6-f110c120ecb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/CraftingListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bstats/Metrics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dev/coomware/Uncraftables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/Uncraftables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Uncraftables-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Uncraftables-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Uncraftables-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Uncraftables-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dev/coomware/Craftable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dev/coomware/Craftable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dev/coomware/CraftingListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dev/coomware/CraftingListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dev/coomware/CraftingUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dev/coomware/CraftingUtils.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/dev/coomware/Uncraftables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dev/coomware/Uncraftables.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +53,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -63,30 +71,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="233" y="19" key="#Project_Structure" timestamp="1594654759308">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="19" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1594654759308" />
     <state x="446" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1594491647536">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="446" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1594491647536" />
-    <state width="1236" height="176" key="GridCell.Tab.0.bottom" timestamp="1594602136658">
+    <state width="1236" height="176" key="GridCell.Tab.0.bottom" timestamp="1594656012496">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1594602136658" />
-    <state width="1236" height="176" key="GridCell.Tab.0.center" timestamp="1594602136657">
+    <state width="1236" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1594656012496" />
+    <state width="1236" height="176" key="GridCell.Tab.0.center" timestamp="1594656012495">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1594602136657" />
-    <state width="1236" height="176" key="GridCell.Tab.0.left" timestamp="1594602136657">
+    <state width="1236" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1594656012495" />
+    <state width="1236" height="176" key="GridCell.Tab.0.left" timestamp="1594656012495">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1594602136657" />
-    <state width="1236" height="176" key="GridCell.Tab.0.right" timestamp="1594602136657">
+    <state width="1236" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1594656012495" />
+    <state width="1236" height="176" key="GridCell.Tab.0.right" timestamp="1594656012496">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1594602136657" />
+    <state width="1236" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1594656012496" />
     <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1594601247830">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1594601247830" />
+    <state x="297" y="161" key="run.anything.popup" timestamp="1594653192737">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1594653192737" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1594590229840">
       <screen x="0" y="0" width="1280" height="720" />
     </state>

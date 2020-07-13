@@ -1,4 +1,14 @@
 dev\coomware\Uncraftables.class
+org\bstats\Metrics$SimpleBarChart.class
 dev\coomware\Craftable.class
-dev\coomware\CraftingListener.class
+org\bstats\Metrics$1.class
+org\bstats\Metrics.class
 dev\coomware\CraftingUtils.class
+org\bstats\Metrics$AdvancedPie.class
+org\bstats\Metrics$SimplePie.class
+org\bstats\Metrics$DrilldownPie.class
+org\bstats\Metrics$MultiLineChart.class
+org\bstats\Metrics$AdvancedBarChart.class
+org\bstats\Metrics$CustomChart.class
+dev\coomware\CraftingListener.class
+org\bstats\Metrics$SingleLineChart.class
