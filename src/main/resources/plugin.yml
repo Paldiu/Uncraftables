@@ -1,6 +1,16 @@
 name: Uncraftables
-main: dev.coomware.Uncraftables
-version: 1.1.0
-author: CoomWare
-description: Adds in crafting recipes for all uncraftable items.
-api-version: 1.16
+main: io.github.paldiu.Uncraftables
+version: 1.2.0
+author: Paldiu
+description: Adds in crafting recipes for uncraftable items.
+api-version: 1.19
+
+commands:
+  reload:
+    description: Reloads the plugin.
+    permission: uncraftables.reload
+
+permissions:
+  uncraftables.reload:
+    description: Allows the user to reload the plugin.
+    default: op
