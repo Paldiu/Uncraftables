@@ -76,4 +76,16 @@ public class ConfigValues {
     public boolean tridentEnabled() {
         return plugin.getYamlWrapper().getBoolean("trident");
     }
+
+    public boolean membraneEnabled() {
+        return plugin.getYamlWrapper().getBoolean("membrane");
+    }
+
+    public boolean cobWebEnabled() {
+        return plugin.getYamlWrapper().getBoolean("cobweb");
+    }
+
+    public boolean witherSkullEnabled() {
+        return plugin.getYamlWrapper().getBoolean("wither_skull");
+    }
 }

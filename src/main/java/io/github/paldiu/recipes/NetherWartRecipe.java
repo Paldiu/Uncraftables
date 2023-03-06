@@ -10,9 +10,8 @@ public class NetherWartRecipe extends Craftable {
 
         if (!getConfigValues().netherWartEnabled()) return;
 
-        ShapelessRecipe recipe = getUtil().shapeless(Material.NETHER_WART, "netherwart_recipe");
-        recipe.addIngredient(1, Material.NETHER_WART_BLOCK);
-        recipe.getResult().setAmount(9);
-        getPlugin().getServer().addRecipe(recipe);
+        ShapelessRecipe netherwart = getUtil().shapeless(Material.NETHER_WART, 9, "netherwart_recipe");
+        netherwart.addIngredient(1, Material.NETHER_WART_BLOCK);
+        getPlugin().getServer().addRecipe(netherwart);
     }
 }

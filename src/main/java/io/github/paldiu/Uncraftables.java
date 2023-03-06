@@ -26,7 +26,6 @@ public class Uncraftables extends JavaPlugin {
         Bukkit.getLogger().info("[Uncraftables] Successfully enabled bStats metrics!");
 
         register();
-        new CraftingListener(this);
         Bukkit.getLogger().info("[Uncraftables] successfully loaded all recipes.");
 
         new ReloadCMD(this);
@@ -51,6 +50,7 @@ public class Uncraftables extends JavaPlugin {
         new NameTagRecipe(this);
         new NetherStarRecipe(this);
         new NetherWartRecipe(this);
+        new PhantomMembraneRecipe(this);
         new SaddleRecipe(this);
         new SpawnerRecipe(this);
         new TotemRecipe(this);

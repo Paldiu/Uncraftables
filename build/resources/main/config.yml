@@ -1,14 +1,12 @@
 barrier: true
 bedrock: true
 bell: true
-cobweb: true
 crying_obsidian: true
 dragon_egg: true
 eggs: true
 elytra: true
 end_frame: true
 horse_armor: true
-membrane: true
 music_discs: true
 name_tag: true
 nether_star: true
@@ -17,4 +15,3 @@ saddle: true
 spawner: true
 totem: true
 trident: true
-wither_skull: true

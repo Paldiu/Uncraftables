@@ -13,7 +13,7 @@ public class DragonEggRecipe extends Craftable {
 
         ShapedRecipe recipe = getUtil().shaped(Material.DRAGON_EGG, "dragon_egg_recipe");
         recipe.shape("obo", "beb", "obo");
-        recipe.setIngredient('o', Material.OBSIDIAN);
+        recipe.setIngredient('o', Material.CRYING_OBSIDIAN);
         recipe.setIngredient('b', Material.DRAGON_BREATH);
         recipe.setIngredient('e', Material.DRAGON_HEAD);
         getPlugin().getServer().addRecipe(recipe);

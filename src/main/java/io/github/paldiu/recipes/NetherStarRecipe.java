@@ -10,13 +10,13 @@ public class NetherStarRecipe extends Craftable {
 
         if (!getConfigValues().netherStarEnabled()) return;
 
-        ShapedRecipe recipe = getUtil().shaped(Material.NETHER_STAR, "nether_star_recipe");
-        recipe.shape("nwn","sss","bqb");
-        recipe.setIngredient('n', Material.NETHER_WART);
-        recipe.setIngredient('w', Material.WITHER_SKELETON_SKULL);
-        recipe.setIngredient('s', Material.SOUL_SAND);
-        recipe.setIngredient('b', Material.BLAZE_ROD);
-        recipe.setIngredient('q', Material.QUARTZ);
-        getPlugin().getServer().addRecipe(recipe);
+        ShapedRecipe nether_star = getUtil().shaped(Material.NETHER_STAR, "nether_star_recipe");
+        nether_star.shape("nwn","sss","bqb");
+        nether_star.setIngredient('n', Material.NETHER_WART);
+        nether_star.setIngredient('w', Material.WITHER_SKELETON_SKULL);
+        nether_star.setIngredient('s', Material.SOUL_SAND);
+        nether_star.setIngredient('b', Material.BLAZE_ROD);
+        nether_star.setIngredient('q', Material.QUARTZ);
+        getPlugin().getServer().addRecipe(nether_star);
     }
 }
